@@ -11,7 +11,7 @@
 2. 脚本 get_input_and_output.py，用于生成随机的输入输出数据。
 3. 脚本 npz2md.py，用于将npz文件提取成json文件和markdown文件。
 4. 数据 Associated_research_paper/OurResults。
-5. 文档 AutoMR使用教程，更详细的介绍了AutoMR的使用方法。
+5. 文档 AutoMR使用说明文档(第二版)，更详细的介绍了AutoMR的使用方法。
 
 > 有任何问题欢迎联系:
 > 1292396438@qq.com
