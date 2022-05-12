@@ -1,0 +1,13 @@
+name: AutoMR
+channels:
+  - defaults
+dependencies:
+  - numpy=1.14.5=py36h9fa60d3_4
+  - pandas=0.23.1=py36h830ac7b_0
+  - python=3.6.3=h3b118a2_4
+  - scikit-learn=0.19.2=py36heebcf9a_0
+  - scipy=1.1.0=py36hc28095f_0
+  - sympy=1.1.1=py36h96708e0_0
+  - pip:
+    - z3-solver==4.8.5.0
+
