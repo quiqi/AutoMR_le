@@ -200,7 +200,7 @@ if __name__ == '__main__':
     # 此脚本用于将npz文件读取成json格式和markdown格式
     json_name = 'np'    # 将json文件保存成np.json
     markdown_name = 'npmd'      # 将markdown文件保存成npmd.md
-    npz_root = 'Associated_research_paper/PaperResults/NumPy/phase3/'  # npz文件目录，请最后一定要以/结尾。
+    npz_root = 'output/demo/phase3/'  # npz文件目录，请最后一定要以/结尾。
     npz_to_json(npz_root, '{}.json'.format(json_name))                 # 将npz文件转换为json文件
     json_to_md('{}.json'.format(json_name), '{}.md'.format(markdown_name))      # 将json文件转化为md文件
 
